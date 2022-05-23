@@ -1,0 +1,156 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>סקר</title>
+    <link href="content/StyleSheet1.css" rel="stylesheet" />
+    <link href="content/fontawesome-free-5.5.0-web/css/all.css" rel="stylesheet" />
+</head>
+<body class="survey">
+    <div class="container">
+        <header>
+            <div class="logo"></div>
+            <h1>סקר מוסיקלי</h1>
+        </header>
+        <!--****************************************************************************-->
+        <main>
+            <section>
+                <form action="aprove-request-2.html" class="_survey">
+                    <div id="popup1">
+                        <label for="lovely-music">מהי המוסיקה האהובה עליך ביותר?</label><br />
+                        <input type="radio" name="lovely-music" id="lovely-music" value="1" />קצבית<br />
+                        <input type="radio" name="lovely-music" id="lovely-music" value="2" />רגועה<br />
+                        <input type="radio" name="lovely-music" id="lovely-music" value="3" />קלאסית<br />
+                        <input type="radio" name="lovely-music" id="lovely-music" value="4" />ג'אז<br />
+                        <i class="fas fa-heart"></i>
+                        <i class="fas fa-heart"></i>
+                        <i class="fas fa-heart"></i>
+                        <i class="fas fa-heart"></i>
+                        <a href="#popup2">מעבר לשאלה הבאה</a>
+                    </div>
+                    <div id="popup2">
+                        <label for="time-of-music">כמה שעות מזמנך הפנוי אתה מאזין למוסיקה?</label><br />
+                        <input type="number" name="time-of-music" id="time-of-music" min="0" max="24" autofocus /><br />
+                        <i class="fas fa-chevron-right"></i>
+                        <a href="#popup3">מעבר לשאלה הבאה</a>
+                    </div>
+                    <div id="popup3">
+                        <label for="singel" />זמרים שאתה אוהב לשמוע: <br />(סמן ✔ במקום המתאים)<br />
+                        <p>
+                            <input type="checkbox" name="singel" id="singel" /> אברהם פריד
+                            <input type="checkbox" name="singel" id="singel" />יעקב שוואקי
+                            <input type="checkbox" name="singel" id="singel" />בני פרידמן<br />
+                            <input type="checkbox" name="singel" id="singel" />חיים ישראל
+                            <input type="checkbox" name="singel" id="singel" />אהרון רזאל
+                            <input type="checkbox" name="singel" id="singel" />מרדכי בן דוד<br />
+                        </p>
+                        <i class="fas fa-thumbs-up "></i>
+                        <i class="far fa-thumbs-up "></i>
+                        <i class="fas fa-thumbs-up "></i>
+                        <i class="far fa-thumbs-up "></i>
+                        <a href="#popup4">מעבר לשאלה הבאה</a>
+                    </div>
+                    <div id="popup4">
+                        <label for="visit-studio">האם ביקרת אי פעם באולפן?</label><br />
+                        <input type="radio" name="visit-studio" id="visit-studio" value="1" />כן
+                        <input type="radio" name="visit-studio" id="visit-studio" value="2" />לא<br />
+                        <label for="range-enjoy">אם כן, כמה נהנית מ-1 עד 10?</label><br />
+                        <input type="range" name="range-enjoy" id="range-enjoy" min="1" max="10" step="1" />
+                        <a href="#popup5">מעבר לשאלה הבאה</a>
+                    </div>
+                    <div id="popup5">
+                        <label for="music-kind">האם אתה שומע הרבה סוגי מוזיקה?</label><br />
+                        <input type="radio" name="music-kind" id="music-kind" value="1" />כן
+                        <input type="radio" name="music-kind" id="music-kind" value="2" />לא<br />
+                        <i class="fas fa-headphones"></i>
+                        <a href="#popup6">מעבר לשאלה הבאה</a>
+                    </div>
+                    <div id="popup6">
+                        <label for="play-music">האם אתה יודע לנגן?</label><br />
+                        <input type="radio" name="play-music" id="play-music" value="1" />כן
+                        <input type="radio" name="play-music" id="play-music" value="2" />לא<br />
+                        <label for="play-music-d">אם כן,באיזה כלי/ם?</label><br />
+                        <p>
+                            <input type="checkbox" name="play-music-d" id="play-music-d" />אורגן<br />
+                            <input type="checkbox" name="play-music-d" id="play-music-d" />פסנתר<br />
+                            <input type="checkbox" name="play-music-d" id="play-music-d" />כנור<br />
+                            <input type="checkbox" name="play-music-d" id="play-music-d" />קלרינט<br />
+                            <input type="checkbox" name="play-music-d" id="play-music-d" />גיטרה<br />
+                            <input type="text" name="play-music-d" id="play-music-d" placeholder="אחר" autocomplete="off" /><br />
+                        </p>
+                        <a href="#popup7">מעבר לשאלה הבאה</a>
+                    </div>
+                    <div id="popup7">
+                        <label for="buy-disc">האם אתה רוכש אלבומי מוסיקה?</label><br />
+                        <input type="radio" name="buy-disc" id="buy-disc" value="1" />כן
+                        <input type="radio" name="buy-disc" id="buy-disc" value="2" />לא<br />
+                        <i class="fas fa-coins"></i>
+                        <i class="fas fa-coins"></i>
+                        <i class="fas fa-coins"></i>
+                        <i class="fas fa-coins"></i>
+                        <i class="fas fa-coins"></i>
+                        <a href="#popup8">מעבר לשאלה הבאה</a>
+                    </div>
+                    <div id="popup8">
+                        <label for="effect-music">איך המוסיקה משפיעה עליך ?</label><br />
+                        <textarea rows="13" cols="40" name="effect-music" id="effect-music" autofocus></textarea>
+                        <a href="#popup9">מעבר לשאלה הבאה</a>
+                    </div>
+                    <div id="popup9">
+                        <label for="mark">איך היית מגדיר את חוית ההקלטה באולפני Me On The Mic?</label><br />
+                        <input type="radio" name="mark" id="mark" value="1" />🤩מצוין!<br />
+                        <input type="radio" name="mark" id="mark" value="2" />🙂נחמד<br />
+                        <input type="radio" name="mark" id="mark" value="3" />😒מאכזב<br />
+                        <input type="radio" name="mark" id="mark" value="4" />😭גרוע<br />
+                        <a href="#popup10">מעבר לשאלה הבאה</a>
+                    </div>
+                    <div id="popup10">
+                        <h1>לסיום, מלא את פרטיך האישיים: </h1>
+                        <input type="text" name="first-name" id="first-name" placeholder="שם פרטי" autofocus autocomplete="off" />
+                        <br />
+                        <input type="text" name="last-name" id="last-name" placeholder="שם משפחה" autocomplete="off" />
+                        <br />
+                        <input type="email" name="email-customer" id="email-customer" placeholder="אמייל" autocomplete="off" />
+                        <br />
+                        <input type="tel" name="tel" id="tel" placeholder="טלפון" autocomplete="off" />
+                        <br />
+                        <input type="submit" value="לסיום השאלון" />
+                    </div>
+                </form>
+            </section>
+        </main>
+        <!--****************************************************************************-->
+        <hr />
+        <footer>
+            <div class="footer1">
+                <h1>אנחנו כאן בשבילך!</h1><br />
+                שירות הצרכנים עומד לשירותכם במגוון רחב של נושאים:
+                <ul>
+                    <li>מענה לשאלות בכל הנוגע למוצרים, ההליכים ועוד</li>
+                    <li>מענה לשאלות בנוגע לפעילויות שיווקיות בעולם </li>
+                    <li>מענה לתלונות על תקלות איכות במוצרי האולפן</li>
+                </ul>
+            </div>
+            <div class="footer2">
+                <h1>מגוון דרכים לתקשר איתנו!</h1>
+                <ul>
+                    <li><a href="#"></a></li>
+                    <li><a href="#"></a></li>
+                    <li><a href="#"></a></li>
+                    <li><a href="#"></a></li>
+                    <li><a href="#"></a></li>
+                    <li><a href="#"></a></li>
+                </ul>
+            </div>
+            <div class="footer3">
+                <p>
+                    אולפן הקלטות <span>Me On The Mice</span><br />
+                    רחוב חרותינו 2 תל אביב<br />
+                    טלפון:0583221425   0527635269 <br />
+                    zangmusic1@gmail.com
+                </p>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>

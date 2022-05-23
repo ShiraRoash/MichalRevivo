@@ -1,0 +1,448 @@
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\מסלול\טכנולוגית web\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\WebApplication1.dll.config
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\WebApplication1.dll
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\WebApplication1.pdb
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\csc.exe
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\csc.exe.config
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\csc.rsp
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\csi.exe
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\csi.exe.config
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\csi.rsp
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\System.Console.dll
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\System.Security.Claims.dll
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\vbc.exe
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\vbc.exe.config
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\vbc.rsp
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\מסלול\טכנולוגית web\project\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\מסלול\טכנולוגית web\project\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+D:\מסלול\טכנולוגית web\project\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\מסלול\טכנולוגית web\project\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\מסלול\טכנולוגית web\project\WebApplication1\obj\Debug\WebApplication1.dll
+D:\מסלול\טכנולוגית web\project\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\user1\Desktop\project\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\user1\Desktop\project\WebApplication1\bin\WebApplication1.dll
+C:\Users\user1\Desktop\project\WebApplication1\bin\WebApplication1.pdb
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\csc.exe
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\csi.exe
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\System.Security.Claims.dll
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1\Desktop\project\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1\Desktop\project\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1\Desktop\project\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user1\Desktop\project\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\project\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\project\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\user1\Desktop\project\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\user1\Desktop\project\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\project\WebApplication1\bin\WebApplication1.dll.config
+D:\project\WebApplication1\bin\WebApplication1.dll
+D:\project\WebApplication1\bin\WebApplication1.pdb
+D:\project\WebApplication1\bin\roslyn\csc.exe
+D:\project\WebApplication1\bin\roslyn\csc.exe.config
+D:\project\WebApplication1\bin\roslyn\csc.rsp
+D:\project\WebApplication1\bin\roslyn\csi.exe
+D:\project\WebApplication1\bin\roslyn\csi.exe.config
+D:\project\WebApplication1\bin\roslyn\csi.rsp
+D:\project\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\project\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\project\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\project\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\project\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\project\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\project\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\project\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\project\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\project\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\project\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\project\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\project\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\project\WebApplication1\bin\roslyn\System.Console.dll
+D:\project\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\project\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\project\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\project\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\project\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\project\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\project\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+D:\project\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\project\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+D:\project\WebApplication1\bin\roslyn\System.Security.Claims.dll
+D:\project\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\project\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\project\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\project\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\project\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\project\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\project\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\project\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\project\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\project\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\project\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\project\WebApplication1\bin\roslyn\vbc.exe
+D:\project\WebApplication1\bin\roslyn\vbc.exe.config
+D:\project\WebApplication1\bin\roslyn\vbc.rsp
+D:\project\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\project\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\project\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\project\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\project\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+D:\project\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\project\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\project\WebApplication1\obj\Debug\WebApplication1.dll
+D:\project\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\מושלם!!!!!project\WebApplication1\bin\WebApplication1.dll.config
+D:\מושלם!!!!!project\WebApplication1\bin\WebApplication1.dll
+D:\מושלם!!!!!project\WebApplication1\bin\WebApplication1.pdb
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\csc.exe
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\csc.exe.config
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\csc.rsp
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\csi.exe
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\csi.exe.config
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\csi.rsp
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Console.dll
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Security.Claims.dll
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\vbc.exe
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\vbc.exe.config
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\vbc.rsp
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\מושלם!!!!!project\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\מושלם!!!!!project\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\מושלם!!!!!project\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\מושלם!!!!!project\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+D:\מושלם!!!!!project\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\מושלם!!!!!project\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\מושלם!!!!!project\WebApplication1\obj\Debug\WebApplication1.dll
+D:\מושלם!!!!!project\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\WebApplication1.dll.config
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\WebApplication1.dll
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\WebApplication1.pdb
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\csc.exe
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\csc.exe.config
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\csc.rsp
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\csi.exe
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\csi.exe.config
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\csi.rsp
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Console.dll
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Security.Claims.dll
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\vbc.exe
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\vbc.exe.config
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\vbc.rsp
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\obj\Debug\WebApplication1.dll
+D:\מסלול\טכנולוגית web\מושלם!!!!!project\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\WebApplication1.dll.config
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\WebApplication1.dll
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\WebApplication1.pdb
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\csc.exe
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\csc.exe.config
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\csc.rsp
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\csi.exe
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\csi.exe.config
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\csi.rsp
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Console.dll
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Security.Claims.dll
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\vbc.exe
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\vbc.exe.config
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\vbc.rsp
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\obj\Debug\WebApplication1.dll
+D:\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\WebApplication1.dll.config
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\WebApplication1.dll
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\WebApplication1.pdb
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\csc.exe
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\csc.exe.config
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\csc.rsp
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\csi.exe
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\csi.exe.config
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\csi.rsp
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Console.dll
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Security.Claims.dll
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\vbc.exe
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\vbc.exe.config
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\vbc.rsp
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\obj\Debug\WebApplication1.dll
+D:\תכנות\מסלול\שנה א\טכנולוגית web\html-css\מושלם!!!!!project\WebApplication1\obj\Debug\WebApplication1.pdb

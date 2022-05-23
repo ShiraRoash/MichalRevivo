@@ -1,0 +1,226 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0731A0C2-9B14-42D7-9E1D-BDDE422A7D7F}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WebApplication1</RootNamespace>
+    <AssemblyName>WebApplication1</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="about.html" />
+    <Content Include="aprove-request-2.html" />
+    <Content Include="aprove-request.html" />
+    <Content Include="content\images\coding.png" />
+    <Content Include="content\images\red-logo.jpg" />
+    <Content Include="content\images\map.png" />
+    <Content Include="content\images\smartphone.png" />
+    <Content Include="content\images\video-camera.png" />
+    <Content Include="content\video\about-studio.mp4" />
+    <Content Include="english.html" />
+    <Content Include="bread-crumbs.html" />
+    <Content Include="content\fontawesome-free-5.5.0-web\css\all.css" />
+    <Content Include="content\fontawesome-free-5.5.0-web\webfonts\fa-brands-400.svg" />
+    <Content Include="content\fontawesome-free-5.5.0-web\webfonts\fa-regular-400.svg" />
+    <Content Include="content\fontawesome-free-5.5.0-web\webfonts\fa-solid-900.svg" />
+    <Content Include="form.html" />
+    <Content Include="gallery.html" />
+    <Content Include="survey.html" />
+    <Content Include="content\images\gallery-img\2-guitar.jpg" />
+    <Content Include="content\images\gallery-img\3-disc.jpg" />
+    <Content Include="content\images\gallery-img\1-phone.jpg" />
+    <Content Include="content\images\gallery-img\4-smoke.png" />
+    <Content Include="content\images\gallery-img\6-dj.jpg" />
+    <Content Include="content\images\gallery-img\5-pheadphones.jpg" />
+    <Content Include="content\images\gallery-img\8-hip-hop.jpg" />
+    <Content Include="content\images\gallery-img\9-dark.jpg" />
+    <Content Include="content\images\gallery-img\91-pinkmusic.png" />
+    <Content Include="content\images\gallery-img\91-background-313415__340.gif" />
+    <Content Include="content\images\gallery-img\blue\blue.jpg" />
+    <Content Include="content\images\gallery-img\blue\earings.jpg" />
+    <Content Include="content\images\gallery-img\blue\equalizer.jpg" />
+    <Content Include="content\images\gallery-img\blue\finger.jpg" />
+    <Content Include="content\images\gallery-img\blue\by_jameshodges.jpg" />
+    <Content Include="content\images\gallery-img\blue\_jameshodges.jpg" />
+    <Content Include="content\images\gallery-img\blue\music-instruments.jpg" />
+    <Content Include="content\images\gallery-img\blue\musicb.jpg" />
+    <Content Include="content\images\gallery-img\blue\pioneer.jpg" />
+    <Content Include="content\images\gallery-img\97-studios.jpg" />
+    <Content Include="content\images\gallery-img\green\0edf.jpg" />
+    <Content Include="content\images\gallery-img\green\greendramps.jpg" />
+    <Content Include="content\images\gallery-img\green\greennote.jpg" />
+    <Content Include="content\images\gallery-img\green\greenold.jpg" />
+    <Content Include="content\images\gallery-img\green\greenpiano.jpg" />
+    <Content Include="content\images\gallery-img\green\images %2811%29.jpg" />
+    <Content Include="content\images\gallery-img\green\images %2815%29.jpg" />
+    <Content Include="content\images\gallery-img\92-headsets.jpg" />
+    <Content Include="content\images\gallery-img\94-pguitar.jpg" />
+    <Content Include="content\images\gallery-img\93-pink__340.jpg" />
+    <Content Include="content\images\gallery-img\95-music.jpg" />
+    <Content Include="content\images\gallery-img\96-pmusic %282%29.jpg" />
+    <Content Include="content\images\gallery-img\Haifa %283%29.jpg" />
+    <Content Include="content\images\gallery-img\red\black.jpg" />
+    <Content Include="content\images\gallery-img\red\flute.jpg" />
+    <Content Include="content\images\gallery-img\red\headphones-1375893__340.jpg" />
+    <Content Include="content\images\gallery-img\red\headphones1.jpg" />
+    <Content Include="content\images\gallery-img\red\MICZONE2_.jpg" />
+    <Content Include="content\images\gallery-img\red\music.jpg" />
+    <Content Include="content\images\gallery-img\red\Rehovot.JPG" />
+    <Content Include="content\images\gallery-img\red\rose.jpg" />
+    <Content Include="content\images\images%282%29.jpg" />
+    <Content Include="content\images\about2.jpg" />
+    <Content Include="content\images\aprove-request.jpg" />
+    <Content Include="content\images\flower.jpg" />
+    <Content Include="content\images\icons\Birthday.png" />
+    <Content Include="content\images\icons\Biz.png" />
+    <Content Include="content\images\icons\Events100People.png" />
+    <Content Include="content\images\icons\facebook.png" />
+    <Content Include="content\images\icons\family.png" />
+    <Content Include="content\images\icons\flickr.png" />
+    <Content Include="content\images\icons\israel.png" />
+    <Content Include="content\images\icons\linkedin.png" />
+    <Content Include="content\images\icons\pinterest.png" />
+    <Content Include="content\images\icons\Ravakot.png" />
+    <Content Include="content\images\icons\swarm.png" />
+    <Content Include="content\images\icons\twitter.png" />
+    <Content Include="content\images\icons\voice-recorder.png" />
+    <Content Include="content\images\index-gallery\blue.jpg" />
+    <Content Include="content\images\index-gallery\equalizer.jpg" />
+    <Content Include="content\images\index-gallery\finger.jpg" />
+    <Content Include="content\images\index-gallery\hip-hop.jpg" />
+    <Content Include="content\images\index-gallery\musicb.jpg" />
+    <Content Include="content\images\index-gallery\pioneer.jpg" />
+    <Content Include="content\images\logo.png" />
+    <Content Include="content\images\icons\united-states.png" />
+    <Content Include="content\images\about1.JPG" />
+    <Content Include="content\images\russ3ll_yellow-music .jpg" />
+    <Content Include="content\images\p.jpg" />
+    <Content Include="content\images\TA.jpg" />
+    <Content Include="content\images\8999.jpg" />
+    <Content Include="index.html" />
+    <Content Include="Production-stages.html" />
+    <Content Include="content\StyleSheet1.css" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="content\fontawesome-free-5.5.0-web\webfonts\fa-brands-400.eot" />
+    <Content Include="content\fontawesome-free-5.5.0-web\webfonts\fa-brands-400.ttf" />
+    <Content Include="content\fontawesome-free-5.5.0-web\webfonts\fa-brands-400.woff" />
+    <Content Include="content\fontawesome-free-5.5.0-web\webfonts\fa-brands-400.woff2" />
+    <Content Include="content\fontawesome-free-5.5.0-web\webfonts\fa-regular-400.eot" />
+    <Content Include="content\fontawesome-free-5.5.0-web\webfonts\fa-regular-400.ttf" />
+    <Content Include="content\fontawesome-free-5.5.0-web\webfonts\fa-regular-400.woff" />
+    <Content Include="content\fontawesome-free-5.5.0-web\webfonts\fa-regular-400.woff2" />
+    <Content Include="content\fontawesome-free-5.5.0-web\webfonts\fa-solid-900.eot" />
+    <Content Include="content\fontawesome-free-5.5.0-web\webfonts\fa-solid-900.ttf" />
+    <Content Include="content\fontawesome-free-5.5.0-web\webfonts\fa-solid-900.woff" />
+    <Content Include="content\fontawesome-free-5.5.0-web\webfonts\fa-solid-900.woff2" />
+    <None Include="packages.config" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>51163</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:51166/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
